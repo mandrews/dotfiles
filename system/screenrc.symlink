@@ -1,0 +1,6 @@
+startup_message off
+defscrollback 500
+vbell_msg ''
+bell_msg ''
+bindkey ^? stuff ^H
+
